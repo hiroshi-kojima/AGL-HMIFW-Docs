@@ -88,7 +88,8 @@ The below links show the example of Sound/Window mode transition.
 
 <div id="Supported\ environment"></div>
 
-### Supported environment
+### Supported environment  
+
 | Item        | Description                       |
 |:------------|:----------------------------------|
 | AGL version | Daring Dab                        |
