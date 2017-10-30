@@ -50,7 +50,8 @@ HomeScreenGUIはWindowManagerが提供するAPIを使用しています。
 
 <div id="Supported\ environment"></div>
 
-### Supported environment
+### Supported environment  
+
 | Item        | Description                       |
 |:------------|:----------------------------------|
 | AGL version | Daring Dab                        |
